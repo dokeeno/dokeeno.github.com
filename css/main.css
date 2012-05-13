@@ -58,6 +58,12 @@ h1 {
 	font-size: 40px;
 }
 
+#logo a {
+    font-size: 40px;
+    color: #000000;
+    text-decoration: none;
+}
+
 #heading #logo #logo_docs {
 	color: #d40055;
 }
