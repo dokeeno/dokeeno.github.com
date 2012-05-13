@@ -25,7 +25,7 @@ After sucessfully integrated, click on the **Product Updates** tab and you'll se
 
 ![Add Product Updates](/images/getting-started/product-updates.png)
 
-There is two types of updates you can add. They are Annoucements and Features.
+There is two types of updates you can [add](/adding-a-product-update.html). They are Annoucements and Features.
 
 ###Annoucements
 You can add site wide annoucement to your product. When a customer logged into your application we'll delever annoucements by order. 
@@ -34,6 +34,8 @@ You can add site wide annoucement to your product. When a customer logged into y
 You can add features and tips offered by your application in this section. Features also will be delivered by order to the customer. Annoucements get most priority when delivering. Features will be delivered only after each and every annoucement has beed develivered to the customer.
 
 By default **only one** updates (annoucement or feature) will be delevered a day to a customer. (If you send too many, customer will get annoyed!)
+
+**[Click here to learn about adding an update](/adding-a-product-update.html)**
 
 ##4.Test how your updates will get delivered
 Dokeeno gives you a tool to simulate how these updates will be delivered to your customers. You can try it on your webapp if you've integrated it with Dokeeno. For that you need Dokeeno's **Debug Dev Tool**.
