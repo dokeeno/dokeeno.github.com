@@ -1,1 +1,1 @@
-cp _site/* ../dokeeno-app/docs/
+cp _site/* ../dokeeno-app/docs/ -r
