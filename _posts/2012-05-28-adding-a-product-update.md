@@ -11,7 +11,7 @@ Then you'll see a screen like this
 
 ![Product Update Page](/images/adding-a-update/add-update.png)
 
-Field in the above form is described below.
+Fields in the above form is described below.
 
 ##1.Title
 The title of the Update. This will be shown in the Dashboard as well as the title of the Documentaton.
