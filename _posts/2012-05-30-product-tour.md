@@ -7,8 +7,6 @@ title: Product Tour
 
 If you have a **"Online Product or Service"**, yes you can.
 
-Dokeeno can be used with **Blogs and Forums** too, but what you get from Dokeeno is minimum compared with above.
-
 ##Do I need Dokeeno?
 Look at following set of questions?
 
@@ -36,14 +34,14 @@ This is how we achieve it.
 
 ![After Navigated](/images/product-tour/navigated.png)
 
-*	Allow him to read the documentation right away
+* Then allow him to read the documentation right away
 
 ![Dokkeno Notification](/images/product-tour/documentation.png)
 
 ##Benefits
-Following benifits can be achieved for your product with Dokeeno.
+Following benefits can be achieved for your product with Dokeeno.
 
-* Customers know and use your cool features
-* Minimize cost on customer support since they know how to get things done
-* Get feedback from customer about the product updates
-* More focus towards product development rather feature delivery
+* Customers effectively learn about your product updates/features
+* Minimize cost on customer support since customers know how to get things done
+* Get feedback from customers about the product updates
+* More focus towards the product development rather feature delivery
