@@ -3,7 +3,7 @@ layout: post
 title: Adding a product update
 ---
 
-Just click on a **Add New** button on our Product Update in the Dashboard (as shown below).
+Just click on an **Add New** button on our Product Update tab in the Dashboard (as shown below).
 
 ![Add Product Updates](/images/getting-started/product-updates.png)
 
@@ -18,7 +18,7 @@ The title of the Update. This will be shown in the Dashboard as well as the titl
 
 ##2. Notify Text
 Every Update will be delivered to the customer using a notification. This will be the text apear on there.
-Try to add some thing interesting here where the customer opt to click on the notification.
+Try to add some text interesting.
 
 ##3. Feature URL
 This is the URL customer will be redirected when he click on the notification. Leave it blank if you do-not need to redirect.
@@ -27,7 +27,7 @@ And also URL should be exits on your domain as the app exists. E.g. :-
 	/user/newFeature.html
 
 ##4. Feature Element
-Once redirected dokeeno can focus the element where the feature exists. Specify the element using CSS selector here. Leave it blank if you do not need to focus. E.g. :-
+Once redirected dokeeno can focus the element where the feature exists. Specify the element using CSS selectors here. Leave it blank if you do not need to focus. E.g. :-
 
 	.content #feature
 
