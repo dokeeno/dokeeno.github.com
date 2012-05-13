@@ -14,6 +14,7 @@ body, div, a, input, select, button, textarea {
 
 a {
 	text-decoration: none;
+	color: #d40055;
 }
 
 a:hover {
@@ -99,6 +100,10 @@ h1 {
 #pageList ul li:hover {
 	background-color: #FFD5E5;
 	color: white;
+}
+
+#pageList ul li a {
+	color: #333;
 }
 
 #pageList ul li a:hover {

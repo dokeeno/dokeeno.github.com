@@ -45,3 +45,5 @@ Following benefits can be achieved for your product with Dokeeno.
 * Minimize cost on customer support since customers know how to get things done
 * Get feedback from customers about the product updates
 * More focus towards the product development rather feature delivery
+
+**[Lets Get Started](/getting-started.html)**
