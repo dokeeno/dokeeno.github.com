@@ -2,3 +2,4 @@ permalink: /:title.html
 exclude:
 - README.md
 - Rakefile
+- post.sh
