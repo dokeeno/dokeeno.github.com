@@ -20,11 +20,23 @@ The title of the Update. This will be shown in the Dashboard as well as the titl
 Every Update will be delivered to the customer using a notification. This will be the text apear on there.
 
 ##3. Feature URL
-This is the URL customer will be redirected when he click on the notification. Leave it blank if you do-not need to redirect your customer. URL should be exits on your domain as the app exists. E.g. :-
+This is the URL customer will be redirected when he click on the notification. URL can be either internal or external.
 
+###Internal
+URL exists within your application domain. Example internal URL is shown below.
+	
 	/user/newFeature.html
 
+###External
+URL exists outside of your domain. Example external URL is shown below
+	
+	http://blog.myapp.come/new-annoucement.html
+
+Leave it blank if you do-not need to redirect your customer
+
 ##4. Feature Element
+**This only apply if your feature URL is an internal one**
+
 Once redirected dokeeno [can focus](/images/product-tour/navigated.png) the HTML DOM element where the feature exists. Specify the element using CSS selectors here. Leave it blank if you do not need to focus. E.g. :-
 
 	.content #feature
